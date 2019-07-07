@@ -8,7 +8,7 @@
  //对编辑器的操作最好在编辑器ready之后再做
  ue.ready(function() {
      //设置编辑器的内容
-     ue.setContent('<p><br/><br/><br/><br/><br/><br/><br/></p><p style="text-align: center;"><span style="font-size: 36px; color: rgb(255, 255, 255); font-family: comic sans ms;">Zi Tu</span></p>');
+     ue.setContent('<p><br/><br/><br/><br/><br/><br/><br/></p><p style="text-align: center;"><span style="font-size: 50px; color: rgb(255, 255, 255); font-family: comic sans ms;">Zi Tu</span></p>');
      //获取html内容，返回: <p>hello</p>
      // var html = ue.getContent();
      //获取纯文本内容，返回: hello
